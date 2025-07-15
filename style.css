@@ -379,6 +379,13 @@ h2::after {
     margin: 0 auto;
 }
 
+#estadisticas img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 2rem auto 0;
+}
+
 /* Proyectos */
 .projects-slider {
     margin-top: 3rem;
